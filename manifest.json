@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Doggo Popup",
+  "version": "1.0",
+  "description": "",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "shiblaugh.png",
+      "48": "shiblaugh.png",
+      "128": "shiblaugh.png"
+    },
+    "icons": "shiblaugh.png"
+  }
+}
