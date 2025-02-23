@@ -19,6 +19,6 @@ This is a simple browser extension that displays an image of a dog. When you cli
 
 ## Customization
 
-- Replace `shiblaugh.png` with your own image to use a different dog picture.
-- Replace `dog_barking.mp3` with another sound file to change the bark sound.
+- Replace `shiba.png` and `shibwow.png` with your own image to use a different dog picture.
+- Replace `bark1.mp3` and `bark2.mp3` with another sound file to change the bark sound.
 

@@ -9,7 +9,11 @@
       "16": "shiba.png",
       "48": "shiba.png",
       "128": "shiba.png"
-    },
-    "icons": "shiba.png"
+    }
+  },
+  "icons": {
+    "16": "shiba.png",
+    "48": "shiba.png",
+    "128": "shiba.png"
   }
 }
