@@ -6,10 +6,10 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "shiblaugh.png",
-      "48": "shiblaugh.png",
-      "128": "shiblaugh.png"
+      "16": "shiba.png",
+      "48": "shiba.png",
+      "128": "shiba.png"
     },
-    "icons": "shiblaugh.png"
+    "icons": "shiba.png"
   }
 }
